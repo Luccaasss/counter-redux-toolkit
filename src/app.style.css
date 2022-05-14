@@ -1,0 +1,26 @@
+.app {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.counter-display {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+span {
+  font-size: 8em;
+  margin: 0 3rem;
+}
+
+button {
+  font-size: 2em;
+  padding: 20px;
+}
